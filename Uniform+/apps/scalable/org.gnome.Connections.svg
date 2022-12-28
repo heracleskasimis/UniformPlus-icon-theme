@@ -2,17 +2,16 @@
 <svg
    viewBox="0 0 256 256"
    version="1.1"
-   id="svg12"
+   id="svg66"
    sodipodi:docname="org.gnome.Connections.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs16" />
   <sodipodi:namedview
-     id="namedview14"
+     id="namedview68"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -21,35 +20,222 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="3.34375"
+     inkscape:zoom="3.4375"
      inkscape:cx="128"
-     inkscape:cy="128.4486"
+     inkscape:cy="128.43636"
      inkscape:window-width="1920"
      inkscape:window-height="1023"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g10" />
+     inkscape:current-layer="g64" />
+  <defs
+     id="defs50">
+    <clipPath
+       id="clipPath4">
+      <rect
+         height="88"
+         rx="10"
+         width="84"
+         x="-202"
+         y="56"
+         fill="none"
+         display="block"
+         stroke="#646464"
+         color="#000"
+         id="rect2" />
+    </clipPath>
+    <clipPath
+       id="clipPath8">
+      <rect
+         height="88"
+         rx="10"
+         width="84"
+         x="-202"
+         y="56"
+         fill="none"
+         display="block"
+         stroke="#000"
+         color="#000"
+         id="rect6" />
+    </clipPath>
+    <clipPath
+       id="clipPath12">
+      <rect
+         height="88"
+         rx="10"
+         width="84"
+         x="-202"
+         y="56"
+         fill="none"
+         display="block"
+         stroke="#424242"
+         color="#000"
+         id="rect10" />
+    </clipPath>
+    <clipPath
+       id="clipPath16">
+      <rect
+         height="88"
+         rx="10"
+         width="84"
+         x="-202"
+         y="56"
+         fill="none"
+         display="block"
+         stroke="#000"
+         color="#000"
+         id="rect14" />
+    </clipPath>
+    <clipPath
+       id="clipPath20">
+      <rect
+         height="88"
+         rx="10"
+         width="84"
+         x="-202"
+         y="56"
+         fill="none"
+         display="block"
+         stroke="#000"
+         color="#000"
+         id="rect18" />
+    </clipPath>
+    <clipPath
+       id="clipPath24">
+      <rect
+         height="88"
+         rx="10"
+         width="84"
+         x="-202"
+         y="56"
+         fill="none"
+         display="block"
+         stroke="#545454"
+         color="#000"
+         id="rect22" />
+    </clipPath>
+    <clipPath
+       id="clipPath28">
+      <rect
+         y="56"
+         x="-202"
+         width="84"
+         rx="10"
+         height="88"
+         fill="none"
+         display="block"
+         stroke="#000"
+         color="#000"
+         id="rect26" />
+    </clipPath>
+    <clipPath
+       id="clipPath32">
+      <rect
+         y="56"
+         x="-202"
+         width="84"
+         rx="10"
+         height="88"
+         fill="none"
+         display="block"
+         stroke="#545454"
+         color="#000"
+         id="rect30" />
+    </clipPath>
+    <clipPath
+       id="clipPath36">
+      <rect
+         y="56"
+         x="-202"
+         width="84"
+         rx="10"
+         height="88"
+         fill="none"
+         display="block"
+         stroke="#000"
+         color="#000"
+         id="rect34" />
+    </clipPath>
+    <clipPath
+       id="clipPath40">
+      <rect
+         y="56"
+         x="-202"
+         width="84"
+         rx="10"
+         height="88"
+         fill="none"
+         display="block"
+         stroke="#424242"
+         color="#000"
+         id="rect38" />
+    </clipPath>
+    <clipPath
+       id="clipPath44">
+      <rect
+         y="56"
+         x="-202"
+         width="84"
+         rx="10"
+         height="88"
+         fill="none"
+         display="block"
+         stroke="#646464"
+         color="#000"
+         id="rect42" />
+    </clipPath>
+    <clipPath
+       id="clipPath48">
+      <rect
+         y="56"
+         x="-202"
+         width="84"
+         rx="10"
+         height="88"
+         fill="none"
+         display="block"
+         stroke="#000"
+         color="#000"
+         id="rect46" />
+    </clipPath>
+  </defs>
   <g
-     transform="translate(0.147 -796.51)"
-     color="#000"
-     id="g10">
+     transform="matrix(0.99153 0 0 0.98729 1.083 -784.08)"
+     id="g64">
     <path
-       d="m 182.83 797.33 c -368.15 -25.644 -92.2 469.58 64.2 143.49 21.558 -50.25 5.804 -125.18 -64.2 -143.49 z"
-       fill="#bdb76b"
-       id="path2"
-       style="fill:#00bd65;fill-opacity:1" />
+       d="M 229.63,992.2 C 321.68,861.27 151.682,728.6 43.24,835.29 c -102.17,100.51 -7.449,256.68 119.69,207.86 26.526,-10.185 49.802,-26.914 66.7,-50.948 z"
+       fill="#ff6347"
+       color="#000"
+       id="path52"
+       style="fill:#00b07d;fill-opacity:1" />
     <g
-       transform="matrix(1.02924 0 0 1.05521 -7.01 -18.834)"
-       fill="#fff"
-       id="g8">
+       transform="matrix(0.96168 0 0 1.14931 18.315 -150.27)"
+       id="g56">
       <path
-         transform="matrix(0.7703 0 0 0.7714 29.1 792.4)"
-         d="m 145.46 128 c 0 9.644 -7.818 17.462 -17.462 17.462 -9.644 0 -17.462 -7.818 -17.462 -17.462 0 -9.644 7.818 -17.462 17.462 -17.462 9.644 0 17.462 7.818 17.462 17.462 z"
-         id="path4" />
+         id="0"
+         d="m 115.38,952.82 v 13.656 h -15.281 c -2.771,0 -5,2.229 -5,5 0,2.771 2.229,5 5,5 h 55.813 c 2.771,0 5,-2.229 5,-5 0,-2.771 -2.229,-5 -5,-5 H 140.631 V 952.82 h -25.25 z"
+         fill="#fff"
+         color="#000" />
       <path
-         d="m 54.42 891.14 c 0 20.19 8.243 38.494 21.531 51.75 l 7.03 -7.03 c -11.465 -11.431 -18.563 -27.23 -18.563 -44.719 0 -17.489 7.098 -33.29 18.563 -44.719 l -7.03 -7.03 c -13.289 13.256 -21.531 31.56 -21.531 51.75 z m 19.688 0 c 0 14.756 6.01 28.15 15.719 37.844 h 0.031 l 7 -7.03 c -7.88 -7.869 -12.75 -18.757 -12.75 -30.813 0 -12.06 4.87 -22.944 12.75 -30.813 l -7 -7.03 c -0.005 0.005 -0.026 -0.005 -0.031 0 -9.704 9.694 -15.719 23.09 -15.719 37.844 z m 19.625 0 c 0 9.339 3.815 17.827 9.969 23.969 h 0.031 l 7 -7.03 c -4.322 -4.317 -6.969 -10.299 -6.969 -16.938 0 -6.639 2.646 -12.621 6.969 -16.938 l -7 -7.03 c -0.005 0.005 -0.026 -0.005 -0.031 0 -6.154 6.142 -9.969 14.63 -9.969 23.969 z m 50.938 16.938 l 7 7.03 c 0.005 -0.005 0.026 0.005 0.031 0 6.154 -6.142 9.969 -14.63 9.969 -23.969 0 -9.339 -3.815 -17.827 -9.969 -23.969 -0.005 -0.005 -0.026 0.005 -0.031 0 l -7 7.03 c 4.322 4.317 6.969 10.299 6.969 16.938 0 6.639 -2.646 12.621 -6.969 16.938 z m 13.875 13.875 l 7 7.03 h 0.031 c 9.704 -9.694 15.719 -23.09 15.719 -37.844 0 -14.756 -6.01 -28.15 -15.719 -37.844 -0.005 -0.005 -0.026 0.005 -0.031 0 l -7 7.03 c 7.88 7.869 12.75 18.757 12.75 30.813 0 12.06 -4.87 22.944 -12.75 30.813 z m 13.875 13.906 l 7.03 7.03 c 13.289 -13.256 21.531 -31.56 21.531 -51.75 0 -20.19 -8.243 -38.494 -21.531 -51.75 l -7.03 7.03 c 11.465 11.431 18.563 27.23 18.563 44.719 0 17.489 -7.098 33.29 -18.563 44.719 z"
-         id="path6" />
+         id="1"
+         d="m 63.19,872.63 c -2.348,0 -4.25,1.902 -4.25,4.25 v 76.875 c 0,2.348 1.902,4.219 4.25,4.219 h 129.63 c 2.348,0 4.25,-1.871 4.25,-4.219 V 876.88 c 0,-2.348 -1.902,-4.25 -4.25,-4.25 z m 8.288,11.215 h 113.05 v 62.913 H 71.478 z"
+         fill="#fff"
+         color="#000" />
+    </g>
+    <g
+       transform="matrix(0.74092 0 0 0.9046 -2.98 123.24)"
+       id="g62">
+      <use
+         xlink:href="#0"
+         width="1"
+         height="1"
+         id="use58" />
+      <use
+         xlink:href="#1"
+         width="1"
+         height="1"
+         id="use60" />
     </g>
   </g>
 </svg>
