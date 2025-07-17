@@ -3,7 +3,7 @@
    viewBox="0 0 256 256"
    version="1.1"
    id="svg7"
-   sodipodi:docname="neovide.svg"
+   sodipodi:docname="nvim.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -35,7 +35,7 @@
      fill="#f3f0c2"
      color="#000"
      id="path1"
-     style="fill:#228b22;fill-opacity:1" />
+     style="fill:#80005d;fill-opacity:1" />
   <g
      transform="matrix(5.23669 0 0 4.50897 2.958 15.903)"
      id="g7">
